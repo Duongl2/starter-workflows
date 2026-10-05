@@ -91,3 +91,4 @@ Remove the `labels` array from `properties.json` file to publish the template to
 ## Git and GitHub Practice
 
 This line was added by Duongl2 to practice the GitHub Fork and Pull Request workflow.
+Practice update: A follow-up commit updates the open pull request automatically.
